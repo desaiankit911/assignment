@@ -1,3 +1,12 @@
+## Note :
+
+USERNAME : Ankit Desai
+PASSWORD : asd
+
+due to unavalibility of internet I can't able to install "Redux" which further I am going to user for single global Store for Username & Password for editing purpose
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
